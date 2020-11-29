@@ -1,0 +1,138 @@
+Kunci 		Kode Akun 	Nama Akun 	Kategori Akun 	Pajak 	Saldo (dalam IDR)
+			1-10001 	Kas
+	Kas & Bank 		522.000,00
+			1-10002 	Rekening Bank
+	Kas & Bank 		( 1.000.000,00)
+	– 		1-10003 	Giro
+	Kas & Bank 		0,00
+			1-10100 	Piutang Usaha
+	Akun Piutang 		6.600,00
+			1-10101 	Piutang Belum Ditagih
+	Akun Piutang 		0,00
+	– 		1-10102 	Cadangan Kerugian Piutang
+	Akun Piutang 		0,00
+			1-10200 	Persediaan Barang
+	Persediaan 		0,00
+	– 		1-10300 	Piutang Lainnya
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10301 	Piutang Karyawan
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10400 	Dana Belum Disetor
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10401 	Aset Lancar Lainnya
+	Aktiva Lancar Lainnya 		0,00
+			1-10402 	Biaya Dibayar Di Muka
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10403 	Uang Muka
+	Aktiva Lancar Lainnya 		0,00
+			1-10500 	PPN Masukan
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10501 	Pajak Dibayar Di Muka - PPh 22
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10502 	Pajak Dibayar Di Muka - PPh 23
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10503 	Pajak Dibayar Di Muka - PPh 25
+	Aktiva Lancar Lainnya 		0,00
+	– 		1-10700 	Aset Tetap - Tanah
+	Aktiva Tetap 		0,00
+	– 		1-10701 	Aset Tetap - Bangunan
+	Aktiva Tetap 		0,00
+	– 		1-10702 	Aset Tetap - Building Improvements
+	Aktiva Tetap 		0,00
+	– 		1-10703 	Aset Tetap - Kendaraan
+	Aktiva Tetap 		0,00
+	– 		1-10704 	Aset Tetap - Mesin & Peralatan
+	Aktiva Tetap 		0,00
+			1-10705 	Aset Tetap - Perlengkapan Kantor
+	Aktiva Tetap 		0,00
+	– 		1-10706 	Aset Tetap - Aset Sewa Guna Usaha
+	Aktiva Tetap 		0,00
+	– 		1-10707 	Aset Tak Berwujud
+	Aktiva Tetap 		0,00
+	– 		1-10751 	Akumulasi Penyusutan - Bangunan
+	Depresiasi & Amortisasi 		0,00
+	– 		1-10752 	Akumulasi Penyusutan - Building Improvements
+	Depresiasi & Amortisasi 		0,00
+	– 		1-10753 	Akumulasi penyusutan - Kendaraan
+	Depresiasi & Amortisasi 		0,00
+	– 		1-10754 	Akumulasi Penyusutan - Mesin & Peralatan
+	Depresiasi & Amortisasi 		0,00
+	– 		1-10755 	Akumulasi Penyusutan - Peralatan Kantor
+	Depresiasi & Amortisasi 		0,00
+	– 		1-10756 	Akumulasi Penyusutan - Aset Sewa Guna Usaha
+	Depresiasi & Amortisasi 		0,00
+	– 		1-10757 	Akumulasi Amortisasi
+	Depresiasi & Amortisasi 		0,00
+	– 		1-10800 	Investasi
+	Aktiva Lainnya 		0,00
+			2-20100 	Hutang Usaha
+	Akun Hutang 		0,00
+			2-20101 	Hutang Belum Ditagih
+	Akun Hutang 		0,00
+	– 		2-20200 	Hutang Lain Lain
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20201 	Hutang Gaji
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20202 	Hutang Deviden
+	Kewajiban Lancar Lainnya 		0,00
+			2-20203 	Pendapatan Diterima Di Muka
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20205 	Hutang Konsinyasi
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20301 	Sarana Kantor Terhutang
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20302 	Bunga Terhutang
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20399 	Biaya Terhutang Lainnya
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20400 	Hutang Bank
+	Kewajiban Lancar Lainnya 		0,00
+			2-20500 	PPN Keluaran
+	Kewajiban Lancar Lainnya 		2.600,00
+	– 		2-20501 	Hutang Pajak - PPh 21
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20502 	Hutang Pajak - PPh 22
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20503 	Hutang Pajak - PPh 23
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20504 	Hutang Pajak - PPh 29
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20599 	Hutang Pajak Lainnya
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20600 	Hutang dari Pemegang Saham
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20601 	Kewajiban Lancar Lainnya
+	Kewajiban Lancar Lainnya 		0,00
+	– 		2-20700 	Kewajiban Manfaat Karyawan
+	Kewajiban Jangka Panjang 		0,00
+	– 		3-30000 	Modal Saham
+	Ekuitas 		0,00
+	– 		3-30001 	Tambahan Modal Disetor
+	Ekuitas 		0,00
+	– 		3-30100 	Laba Ditahan
+	Ekuitas 		0,00
+	– 		3-30200 	Deviden
+	Ekuitas 		0,00
+	– 		3-30300 	Pendapatan Komprehensif Lainnya
+	Ekuitas 		0,00
+			3-30999 	Ekuitas Saldo Awal
+	Ekuitas 		0,00
+			4-40000 	Pendapatan
+	Pendapatan 		26.000,00
+			4-40100 	Diskon Penjualan
+	Pendapatan 		0,00
+			4-40200 	Retur Penjualan
+	Pendapatan 		0,00
+			4-40201 	Pendapatan Belum Ditagih
+	Pendapatan 		0,00
+			5-50000 	Beban Pokok Pendapatan
+	Harga Pokok Penjualan 		0,00
+			5-50100 	Diskon Pembelian
+	Harga Pokok Penjualan 		0,00
+	– 		5-50200 	Retur Pembelian
+	Harga Pokok Penjualan 		0,00
+			5-50300 	Pengiriman & Pengangkutan
+	Harga Pokok Penjualan 		0,00
+	– 		5-50400 	Biaya Impor
+	Harga Pokok Penjualan 		0,00
+		
